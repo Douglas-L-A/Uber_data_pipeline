@@ -17,15 +17,15 @@ O objetivo deste projeto é construir um dashboard para realizar análises de da
 - GCP
 1. Looker Studio
 
-Data Pipeline: https://www.mage.ai/
+- Data Pipeline: https://www.mage.ai/
 
 ## Dataset Utilizado
 - TLC Trip Record Data <br>
 Os dados são registrados para viagens da Uber no ano de 2016. Os registros de viagens incluem campos para datas/horários de embarque e desembarque, locais de embarque e desembarque, distâncias das viagens, tarifas detalhadas, tipos de pagamento e contagem de passageiros informada pelo motorista.
 
-Dataset: https://github.com/Douglas-L-A/Uber_data_pipeline/blob/main/data/uber_data.csv
+- Dataset: https://github.com/Douglas-L-A/Uber_data_pipeline/blob/main/data/uber_data.csv
 
-Mais informações sobre o dataset:
+- Mais informações sobre o dataset:
 1. Site - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Dicionário de daods - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
