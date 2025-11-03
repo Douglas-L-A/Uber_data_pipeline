@@ -33,4 +33,4 @@ Mais informações sobre o dataset:
 <img src="data_model.jpeg">
 
 ## Uber Dashboard (Looker Studio)
-
+[Veja o dashboard no Looker Studio](https://lookerstudio.google.com/embed/reporting/1efbe39a-1da8-4b2c-93f2-2d0f4a38e8b4/page/StadF)
