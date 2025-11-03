@@ -13,6 +13,7 @@ O objetivo deste projeto é construir um dashboard para realizar análises de da
 - AWS
 1. S3
 2. EC2
+3. Athena
 
 - GCP
 1. Looker Studio
