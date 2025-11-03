@@ -5,7 +5,7 @@
 O objetivo deste projeto é construir um dashboard para realizar análises de dados sobre os dados da Uber, utilizando diversas ferramentas e tecnologias, como Python, AWS S3, AWS EC2, Mage Data Pipeline e Looker Studio. 
 
 ## Arquitetura
-<img src="architecture.jpg">
+<img src="arquitetura.png">
 
 ## Tecnologias utilizadas
 - Linguagem de programação: Python
@@ -33,4 +33,4 @@ Mais informações sobre o dataset:
 <img src="data_model.jpeg">
 
 ## Uber Dashboard (Looker Studio)
-Video Link - https://youtu.be/WpQECq5Hx9g
+
