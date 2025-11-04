@@ -28,7 +28,7 @@ Os dados são registrados para viagens da Uber no ano de 2016. Os registros de v
 
 - Mais informações sobre o dataset:
 1. Site - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-2. Dicionário de daods - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+2. Dicionário de dados - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
 <img src="data_model.jpeg">
